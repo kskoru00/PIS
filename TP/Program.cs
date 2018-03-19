@@ -11,6 +11,7 @@ namespace TP
         {
             Console.WriteLine("Hello World");
             int a = 0;
+            //Hej hej skore je
         }
     }
 }
